@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Really new stream",
+      "description": "Stream that have userId which we can use!",
+      "userId": "118078522845461503908",
+      "id": 4
+    },
+    {
+      "title": "Hellonew",
+      "description": "Redirecting stream",
+      "userId": "118078522845461503908",
+      "id": 6
+    },
+    {
+      "title": "Moj novi stream",
+      "description": "Ovo je stream za vježbu",
+      "userId": "118078522845461503908",
+      "id": 7
+    }
+  ]
+}
